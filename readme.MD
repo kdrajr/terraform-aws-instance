@@ -13,3 +13,4 @@ This module creates EC2 Instance.
 
 * public_ip - Public IP of the instance created
 * private_ip - Private IP of the instance created
+* instance_id - Instance Id of the instance created
